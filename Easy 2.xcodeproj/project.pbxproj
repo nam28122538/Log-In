@@ -14,6 +14,7 @@
 		08EA3DE61D1BBD4F00E18F73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 08EA3DE41D1BBD4F00E18F73 /* LaunchScreen.storyboard */; };
 		08EA3DF11D1BBD4F00E18F73 /* Easy_2Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08EA3DF01D1BBD4F00E18F73 /* Easy_2Tests.swift */; };
 		08EA3DFC1D1BBD4F00E18F73 /* Easy_2UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 08EA3DFB1D1BBD4F00E18F73 /* Easy_2UITests.swift */; };
+		08EA3E0A1D1BBEEE00E18F73 /* bg700.png in Resources */ = {isa = PBXBuildFile; fileRef = 08EA3E091D1BBEEE00E18F73 /* bg700.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		08EA3DF71D1BBD4F00E18F73 /* Easy 2UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Easy 2UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		08EA3DFB1D1BBD4F00E18F73 /* Easy_2UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Easy_2UITests.swift; sourceTree = "<group>"; };
 		08EA3DFD1D1BBD4F00E18F73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		08EA3E091D1BBEEE00E18F73 /* bg700.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bg700.png; path = ../../../Desktop/Resource/Background/bg700.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				08EA3DDB1D1BBD4F00E18F73 /* AppDelegate.swift */,
 				08EA3DDD1D1BBD4F00E18F73 /* ViewController.swift */,
 				08EA3DDF1D1BBD4F00E18F73 /* Main.storyboard */,
+				08EA3E091D1BBEEE00E18F73 /* bg700.png */,
 				08EA3DE21D1BBD4F00E18F73 /* Assets.xcassets */,
 				08EA3DE41D1BBD4F00E18F73 /* LaunchScreen.storyboard */,
 				08EA3DE71D1BBD4F00E18F73 /* Info.plist */,
@@ -229,6 +232,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				08EA3E0A1D1BBEEE00E18F73 /* bg700.png in Resources */,
 				08EA3DE61D1BBD4F00E18F73 /* LaunchScreen.storyboard in Resources */,
 				08EA3DE31D1BBD4F00E18F73 /* Assets.xcassets in Resources */,
 				08EA3DE11D1BBD4F00E18F73 /* Main.storyboard in Resources */,
