@@ -69,6 +69,13 @@ class ViewController: UIViewController {
             if status {
                 if (strPass == myTruePass) {
                     print("Welcome")
+                    
+//                    let goToService = self.storyboard?.instantiateViewControllerWithIdentifier("serviceID") as! ServiceViewController
+//                    self.navigationController?.pushViewController(goToService, animated: true)
+                    
+                    
+                    
+                    
                 }else{
                     myAlertDialog("Password False", strMessage: "Please Try Again Passoword Falae")
                 
